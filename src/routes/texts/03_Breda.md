@@ -4,8 +4,10 @@ date: "2024-14-05"
 color: "red"
 author: Ben
 isPublic: true
-lang: en
-description: "nur innerhalb der anführungszeichen schreiben für eine Beschreibung"
+lang: de
+description: "AUF DER BÜHNE DER GESCHICHTE
+DIE »ÜBERGABE VON BREDA« DES DIEGO VELÁZQUEZ, 
+ein Text von Martin Warnke"
 cover: "https://uclab.fh-potsdam.de/refa-catalog/files/large/bbddd54655955eb994e2db8dfc57ef9c85c2cb18.jpg"
 ---
 
