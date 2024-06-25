@@ -19,7 +19,7 @@ Die kostspielige Eroberung, der heute in spanischen Geschichtsbüchern allenfall
 
 # Ein Bild militärischer und kultureller Überlegenheit
 
-Das größte Bild, das Velázquez je gemalt hat - es ist 367 Zentimeter breit und 307 Zentimeter hoch, hing mit elf anderen Bildern ruhmreicher Kriegsereignisse aus der Amtszeit des regierenden Königs Philipp IV. im Thronsaal eines neu erbauten Palastes vor den Mauern der Hauptstadt Madrid. [...]
+Das größte Bild, das Velázquez je gemalt hat - es ist 367 Zentimeter breit und 307 Zentimeter hoch, hing mit elf anderen Bildern ruhmreicher Kriegsereignisse aus der Amtszeit des regierenden [Königs Philipp IV](item/68519). im Thronsaal eines neu erbauten [Palastes](item/68521) vor den Mauern der Hauptstadt Madrid. [...]
 
 Die Serie triumphaler Schlachten hätten den König manche kürzlich erfolgte Niederlage des schlecht subventionierten spanischen Heeres vergessen lassen sollen. Wie alle anderen Sieges- und Schlachtenbilder im Saal verzichtet dasjenige von Velázquez auf jegliche allegorische Verbrämung des darzustellenden Ereignisses. Allerdings gab ein Zyklus mit kleineren Herkulesbildern von Francisco de Zurbarán über den Fenstern des Saales einen eher diskreten Hinweis Hinweis auf die mythischen Überhöhungen, die gewöhnlich für solche Ruhmessäle zu erwarten waren. Sie konnten hier auch eher auf die Leistungen der Feldherren als auf die spanischen Habsburger, die ihren Stamm auf Herkules zurückführten, bezogen werden. Reiterbilder des herrschenden Königs, seiner Gemahlin und des Thronfolgers Balthasar Carlos an der einen Schmal-wand, ebensolche der Eltern über der gegenüberliegenden Eingangstür konnten den Eindruck erwecken, dass die spanischen Habsburger die Anführer einer ruhmreichen Kampagne waren. [...]
 
